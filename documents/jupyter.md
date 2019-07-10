@@ -72,3 +72,6 @@
 
 * 26장 분류
   - https://nbviewer.jupyter.org/gist/SDRLurker/0959df75542fd9e748b1c26b427925b0
+  
+* 30장 그래프 분석
+  - https://nbviewer.jupyter.org/gist/SDRLurker/25b29098cd9accd115d73ab3c0e65c29
